@@ -1,0 +1,24 @@
+.mainhead{
+    background-color: black;
+    color: azure;
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+}
+.logoimg{
+    height: 70px;
+    width: 120px;
+}
+.navbar .nav-item:hover{
+   
+    border-bottom: 5px solid blue;
+    border-top: 5px solid blue;
+    color: blue;
+}
+
+.nav-item{
+    padding: 20px;
+}
+.disable{
+    display: none;
+}

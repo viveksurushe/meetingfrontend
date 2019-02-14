@@ -9,7 +9,7 @@ import { Cookie } from 'ng2-cookies/ng2-cookies';
   providedIn: 'root'
 })
 export class AppService {
-  private url = 'http://localhost:3000';
+  private url = 'http://www.meetingplanner.tk';
   
   constructor(public http: HttpClient) { }
 
